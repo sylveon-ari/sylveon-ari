@@ -1,5 +1,4 @@
-### hi
-
+![](https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/aribanner.png)
 <!--
 **sylveon-ari/sylveon-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
