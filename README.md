@@ -1,4 +1,10 @@
 ![](https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/aribanner.png)
+
+[soundcloud](https://soundcloud.com/ari_lt3)
+
+[twitter](https://twitter.com/archIinux)
+
+[my plugins](https://sylveon-ari.github.io/)
 <!--
 **sylveon-ari/sylveon-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
