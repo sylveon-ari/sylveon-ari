@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/aribanner.png)
 
-<img align="right" src="https://github.com/wvffle/wvffle/blob/master/css_wvffle.png" alt="Illustration of a css waffle from my codepen (https://codepen.io/wvffle/pen/EyJxwa)" width=350px height=465px/>
+<img align="right" src="https://avatars2.githubusercontent.com/u/68156346?s=460&u=89aa31c280442fdf34835e405c43b95c5daba275&v=4" width=350px/>
 
 ✨ she / her
 
