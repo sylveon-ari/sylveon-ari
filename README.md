@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/aribanner.png)
 
-<img align="right" src="https://avatars2.githubusercontent.com/u/68156346?s=460&u=89aa31c280442fdf34835e405c43b95c5daba275&v=4" width=350px/>
+<img align="right" src="https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/68156346.png" width=350px/>
 
 ✨ she / her
 
