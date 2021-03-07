@@ -1,7 +1,5 @@
 ![](https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/aribanner.png)
 
-<img align="right" src="https://raw.githubusercontent.com/sylveon-ari/sylveon-ari/main/68156346.png" width=350px/>
-
 ✨ she / her
 
 ✨ göttingen, germany
